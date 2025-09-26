@@ -1,0 +1,18 @@
+# Setup
+title:        Darwin-simulation distribution ver TEST
+tagline:      This is not real — just for testing. PLZ don’t try to use this website.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Author name
+  url:        http://jiniewon.github.io 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
