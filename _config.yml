@@ -7,8 +7,11 @@ locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
+  name:       JINJW
   url:        http://jiniewon.github.io 
+
+cayman-blog:
+  date_format: "%b %-d, %Y"
 
 # Gems
 gems:
@@ -16,3 +19,8 @@ gems:
 
 #Others
 markdown: kramdown
+
+header_page_refs: ['collaboration', 'events', contact']
+
+email: "fkdlzks1002@gmail.com"
+#logo: "darwin.png"
