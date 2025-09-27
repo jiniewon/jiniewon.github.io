@@ -1,26 +1,33 @@
-# Setup
-title:        Darwin-simulation distribution ver TEST
-tagline:      This is not real — just for testing. PLZ don’t try to use this website.
-baseurl:      ""
-paginate:     1
-locale:       "en"
+title: DARWIN
+description: DAzzling Realization of dWarf galaxies In the Next generation of cosmological hydrodynamic simulations
+show_downloads: true
 
-# About/contact
-author:
-  name:       JINJW
-  url:        http://jiniewon.github.io 
+baseurl:  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://darwin-simulation.github.io" # change this to the base hostname & protocol for your site
 
+
+google_analytics:
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-# Gems
-gems:
-  - jekyll-paginate
+theme: # leave it empty
 
-#Others
-markdown: kramdown
+# social
+#author: lorepirri
+#image: /thumbnail-jumbo.png
+#twitter:
+#  username: lorepirri
 
-header_page_refs: ['collaboration', 'events', contact']
+plugins:
+  - jekyll-target-blank
 
-email: "fkdlzks1002@gmail.com"
-#logo: "darwin.png"
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['collaboration', 'events', 'contact']
+
+email: "galaxydarwin27@gmail.com"
+logo: "darwin.png"
