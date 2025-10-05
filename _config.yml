@@ -1,5 +1,5 @@
-title: DARWIN
-description: DAzzling Realization of dWarf galaxies In the Next generation of cosmological hydrodynamic simulations
+title: DARWIN data distribution ver test
+description: This is not real website, is just for testing. Plz don't try to use this website.
 show_downloads: true
 
 baseurl:  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -29,5 +29,5 @@ target-blank:
 
 header_page_refs: ['collaboration', 'events', 'contact']
 
-email: "galaxydarwin27@gmail.com"
+email: "fkdlzks1002@gmail.com"
 logo: "darwin.png"
